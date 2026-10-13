@@ -4,7 +4,7 @@ Frontend engineer with a long track record in large-scale web platforms and fron
 
 **Now building**
 
-- [**Loopable**](https://loop.readish.app) — an always-on agent for team work. Watches GitHub, Slack, and Lark, runs Codex or Claude on a shared machine, and writes the result back.
+- [**Loopable**](https://loop.goodone.si) — an always-on agent for team work. Watches GitHub, Slack, and Lark, runs Codex or Claude on a shared machine, and writes the result back.
 - [**AgentMind**](https://github.com/imsobear/agentmind) — a local-first inspector for Claude Code and Codex CLI sessions: browse conversations, tool calls, and execution flows.
 - [**Daily English**](https://github.com/imsobear/daily-english) — an AI-powered PWA that turns saved vocabulary into personalized English lessons.
 
