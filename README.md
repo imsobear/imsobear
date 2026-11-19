@@ -10,6 +10,6 @@ I've spent a decade-plus building web platforms and dev tools at Alibaba and Tik
 **Previously**
 
 - [**Loopable**](https://loop.goodone.si) — an always-on agent for team work. Watches GitHub, Slack, and Lark, runs Codex or Claude on a shared machine, and writes the result back.
-- [**AgentMind**](https://github.com/imsobear/agentmind) — a local-first inspector for Claude Code and Codex CLI sessions: browse conversations, tool calls, and execution flows.
+- [**AgentMind**](https://github.com/imsobear/agentmind) — a local-first inspector for Claude Code and Codex CLI sessions
 - [**ICE**](https://github.com/alibaba/ice) — built from zero to one: a React-based frontend solution, 18k+ ⭐
 - [**icestark**](https://github.com/ice-lab/icestark) — micro-frontend framework, widely adopted in production
