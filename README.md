@@ -1,16 +1,16 @@
-### Hi, I'm sobear 👋
+### Hi, I'm Eric (sobear) 👋
 
-Frontend engineer with a long track record in large-scale web platforms and frontend infrastructure. These days I'm focused on AI-native engineering workflows and agent tooling.
+I've spent a decade-plus building web platforms and dev tools at Alibaba and TikTok, and leading the teams behind them. These days I'm mostly building with, and for, AI agents.
 
 **Now building**
 
-- [**Loopable**](https://loop.goodone.si) — an always-on agent for team work. Watches GitHub, Slack, and Lark, runs Codex or Claude on a shared machine, and writes the result back.
+- [**Rome**](https://github.com/rome-os/rome) — an open-source OS for personal AI agents. Core contributor: the native iOS app and the personal assistant agent.
+- [**Remmo**](https://remmo.goodone.si) — run Claude Code and other coding agents from your phone, end-to-end encrypted.
 - [**AgentMind**](https://github.com/imsobear/agentmind) — a local-first inspector for Claude Code and Codex CLI sessions: browse conversations, tool calls, and execution flows.
-- [**Daily English**](https://github.com/imsobear/daily-english) — an AI-powered PWA that turns saved vocabulary into personalized English lessons.
 
 **Previously**
 
 - [**ICE**](https://github.com/alibaba/ice) — built from zero to one: a React-based frontend solution, 18k+ ⭐
 - [**icestark**](https://github.com/ice-lab/icestark) — micro-frontend framework, widely adopted in production
 
-**Stack** · React · TypeScript · Next.js · Vite · Tailwind CSS · Cloudflare Workers · Codex / Claude Code
+**Stack** · TypeScript · React · Next.js · React Native · Tailwind CSS · Cloudflare Workers · Claude Code / Codex
