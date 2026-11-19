@@ -6,10 +6,10 @@ I've spent a decade-plus building web platforms and dev tools at Alibaba and Tik
 
 - [**Rome**](https://github.com/rome-os/rome) — an open-source OS for personal AI agents. Core contributor: the native iOS app and the personal assistant agent.
 - [**Remmo**](https://remmo.goodone.si) — run Claude Code and other coding agents from your phone, end-to-end encrypted.
-- [**AgentMind**](https://github.com/imsobear/agentmind) — a local-first inspector for Claude Code and Codex CLI sessions: browse conversations, tool calls, and execution flows.
 
 **Previously**
 
+- [**AgentMind**](https://github.com/imsobear/agentmind) — a local-first inspector for Claude Code and Codex CLI sessions: browse conversations, tool calls, and execution flows.
 - [**ICE**](https://github.com/alibaba/ice) — built from zero to one: a React-based frontend solution, 18k+ ⭐
 - [**icestark**](https://github.com/ice-lab/icestark) — micro-frontend framework, widely adopted in production
 
